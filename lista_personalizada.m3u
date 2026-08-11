@@ -37,12 +37,12 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1398295
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/239672
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | - 02. DAZN" ext-x-type="live" tvg-type="live",ES| DAZN 1 ESPAÑA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/91781
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | - 02. DAZN" ext-x-type="live" tvg-type="live",ES| DAZN 1 ESPAÑA HD
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30642
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | - 02. DAZN" ext-x-type="live" tvg-type="live",ES| DAZN 1 ESPAÑA HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/91783
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | - 02. DAZN" ext-x-type="live" tvg-type="live",ES| DAZN 1 ESPAÑA SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/155035
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | - 02. DAZN" ext-x-type="live" tvg-type="live",ES| DAZN 1 ESPAÑA HD
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30642
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | - 02. DAZN" ext-x-type="live" tvg-type="live",ES| DAZN 2 ESPAÑA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/91782
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 ESPAÑA HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | - 02. DAZN" ext-x-type="live" tvg-type="live",ES| DAZN 2 ESPAÑA HD
@@ -307,18 +307,6 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/12659
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/239670
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LCAMPEONS 4K" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LCAMPEONS 4K
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/167196
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  14 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  14 FHD
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329264
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  15 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  15 FHD
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329263
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  16 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  16 FHD
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329262
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  17 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  17 FHD
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329261
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  18 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  18 FHD
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329260
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  19 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  19 FHD
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329259
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES 1 FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33682
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 FHD [BK]" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES 1 FHD [BK]
@@ -339,6 +327,18 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/5175
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/5174
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES 13 HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/5173
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  14 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  14 FHD
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329264
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  15 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  15 FHD
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329263
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  16 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  16 FHD
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329262
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  17 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  17 FHD
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329261
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  18 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  18 FHD
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329260
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES  19 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES  19 FHD
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1329259
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://lo1.in/sp/M+ LIGA DE CAMPEONES 4.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES 2 FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33683
 #EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | - 08. MOVISTAR CHAMPIONS LEAGUE" ext-x-type="live" tvg-type="live",ES| M+ LIGA DE CAMPEONES 2 HD
@@ -535,8 +535,6 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/187324
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/239669
 #EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORT✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | - 12. MOVISTAR SPORT" ext-x-type="live" tvg-type="live",✦●✦SPORT✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/193881
-#EXTINF:-1 tvg-id="" tvg-name="ES| FEF TV  20 FHD (Solo Eventos)" tvg-logo="https://lo1.in/sp/FEF TV 20.png" group-title="EU | - 13. FEF TV" ext-x-type="live" tvg-type="live",ES| FEF TV  20 FHD (Solo Eventos)
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/19169
 #EXTINF:-1 tvg-id="" tvg-name="ES| FEF TV 1 FHD (Solo Eventos)" tvg-logo="https://lo1.in/sp/FEF TV 20.png" group-title="EU | - 13. FEF TV" ext-x-type="live" tvg-type="live",ES| FEF TV 1 FHD (Solo Eventos)
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/19188
 #EXTINF:-1 tvg-id="" tvg-name="ES| FEF TV 10 FHD (Solo Eventos)" tvg-logo="https://lo1.in/sp/FEF TV 20.png" group-title="EU | - 13. FEF TV" ext-x-type="live" tvg-type="live",ES| FEF TV 10 FHD (Solo Eventos)
@@ -561,6 +559,8 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/19171
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/19170
 #EXTINF:-1 tvg-id="" tvg-name="ES| FEF TV 2 FHD (Solo Eventos)" tvg-logo="https://lo1.in/sp/FEF TV 20.png" group-title="EU | - 13. FEF TV" ext-x-type="live" tvg-type="live",ES| FEF TV 2 FHD (Solo Eventos)
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/19187
+#EXTINF:-1 tvg-id="" tvg-name="ES| FEF TV  20 FHD (Solo Eventos)" tvg-logo="https://lo1.in/sp/FEF TV 20.png" group-title="EU | - 13. FEF TV" ext-x-type="live" tvg-type="live",ES| FEF TV  20 FHD (Solo Eventos)
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/19169
 #EXTINF:-1 tvg-id="" tvg-name="ES| FEF TV 3 FHD (Solo Eventos)" tvg-logo="https://lo1.in/sp/FEF TV 20.png" group-title="EU | - 13. FEF TV" ext-x-type="live" tvg-type="live",ES| FEF TV 3 FHD (Solo Eventos)
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/19186
 #EXTINF:-1 tvg-id="" tvg-name="ES| FEF TV 4 FHD (Solo Eventos)" tvg-logo="https://lo1.in/sp/FEF TV 20.png" group-title="EU | - 13. FEF TV" ext-x-type="live" tvg-type="live",ES| FEF TV 4 FHD (Solo Eventos)
@@ -615,16 +615,16 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/789090
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1036611
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ COPA DEL REY HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | - 15. COPA DEL REY" ext-x-type="live" tvg-type="live",ES| M+ COPA DEL REY HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1036610
+#EXTINF:-1 tvg-id="movistarplus.es" tvg-name="ES| M+ PLUS HD [BK]" tvg-logo="https://lo1.in/sp/mp.png" group-title="EU | - 15. COPA DEL REY" ext-x-type="live" tvg-type="live",ES| M+ PLUS HD [BK]
+http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1270280
 #EXTINF:-1 tvg-id="movistarplus.es" tvg-name="ES| M+ PLUS HD  [BK]" tvg-logo="https://lo1.in/sp/mp.png" group-title="EU | - 15. COPA DEL REY" ext-x-type="live" tvg-type="live",ES| M+ PLUS HD  [BK]
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2110
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ COPA DEL REY ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | - 15. COPA DEL REY" ext-x-type="live" tvg-type="live",✦●✦ COPA DEL REY ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ COPA DEL REY ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | - 15. COPA DEL REY" ext-x-type="live" tvg-type="live",✦●✦ COPA DEL REY ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/98013
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",✦●✦ SPAIN HD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",✦●✦ SPAIN HD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31308
 #EXTINF:-1 tvg-id="movistarplus.es" tvg-name="ES| M+ PLUS HD" tvg-logo="https://lo1.in/sp/m+.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| M+ PLUS HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2117
-#EXTINF:-1 tvg-id="movistarplus.es" tvg-name="ES| M+ PLUS HD [BK]" tvg-logo="https://lo1.in/sp/mp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| M+ PLUS HD [BK]
-http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1270280
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ 2 PLUS HD" tvg-logo="https://lo1.in/sp/m+.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| M+ 2 PLUS HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2112
 #EXTINF:-1 tvg-id="mplusorginales.es" tvg-name="ES| M+ ORIGINALES HD" tvg-logo="https://lo1.in/sp/M.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| M+ ORIGINALES HD
@@ -705,7 +705,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/92388
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/187352
 #EXTINF:-1 tvg-id="laotra.es" tvg-name="ES| LA OTRA HD" tvg-logo="https://lo1.in/sp/La Otra.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| LA OTRA HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/948405
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN FHD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",✦●✦ SPAIN FHD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN FHD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",✦●✦ SPAIN FHD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31315
 #EXTINF:-1 tvg-id="movistarplus.es" tvg-name="ES| M+ PLUS FHD" tvg-logo="https://lo1.in/sp/m+.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| M+ PLUS FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2429
@@ -773,7 +773,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/861605
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290057
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ SERIESMANÍA FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| M+ SERIESMANÍA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290058
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",✦●✦ SPAIN HEVC ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ SPAIN HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",✦●✦ SPAIN HEVC ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31318
 #EXTINF:-1 tvg-id="movistarplus.es" tvg-name="ES| M+ PLUS HEVC" tvg-logo="https://lo1.in/sp/m+.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| M+ PLUS HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2118
@@ -859,7 +859,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/948409
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/948411
 #EXTINF:-1 tvg-id="" tvg-name="ES| CANAL PARLAMENTO SD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN GENERALE" ext-x-type="live" tvg-type="live",ES| CANAL PARLAMENTO SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/948413
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTERTAINMENT  HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",✦●✦ ENTERTAINMENT  HD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTERTAINMENT  HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",✦●✦ ENTERTAINMENT  HD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31313
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES| AMC HD" tvg-logo="https://lo1.in/sp/AMCc.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",ES| AMC HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30966
@@ -913,7 +913,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290046
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290047
 #EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES| CANAL PANDA HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",ES| CANAL PANDA HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290048
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO FHD✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",✦●✦ ENTRETENIMIENTO FHD✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO FHD✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",✦●✦ ENTRETENIMIENTO FHD✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31350
 #EXTINF:-1 tvg-id="amc.es" tvg-name="ES| AMC FHD" tvg-logo="https://lo1.in/sp/AMCc.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",ES| AMC FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30898
@@ -979,7 +979,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290045
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290049
 #EXTINF:-1 tvg-id="" tvg-name="ES| TV CANARIA FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",ES| TV CANARIA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1432737
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",✦●✦ ENTRETENIMIENTO HEVC ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTRETENIMIENTO HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",✦●✦ ENTRETENIMIENTO HEVC ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31323
 #EXTINF:-1 tvg-id="" tvg-name="ES| AMC CRIME HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",ES| AMC CRIME HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/5179
@@ -1039,129 +1039,129 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/155046
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/155049
 #EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES| DREAMWORKS SD" tvg-logo="https://lo1.in/sp/DREAMWORKS.png" group-title="EU | SPAIN ENTERTAIMENT" ext-x-type="live" tvg-type="live",ES| DREAMWORKS SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/155057
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CULTURA  HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦ CULTURA  HD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CULTURA  HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦ CULTURA  HD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31314
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC HD" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC HD" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30984
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES| NAT GEO WILD HD" tvg-logo="https://lo1.in/fr/Nat geo wild HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEO WILD HD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES| NAT GEO WILD HD" tvg-logo="https://lo1.in/fr/Nat geo wild HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEO WILD HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30983
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/us/dcC.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/us/dcC.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DISCOVERY CHANNEL HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30985
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX HD" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX HD
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX HD" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1072
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA HD" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA HD
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA HD" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30991
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES| CRIMEN+ INVESTIGACION HD" tvg-logo="https://lo1.in/sp/CRIMEN INVESTIGACION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CRIMEN+ INVESTIGACION HD
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES| CRIMEN+ INVESTIGACION HD" tvg-logo="https://lo1.in/sp/CRIMEN INVESTIGACION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CRIMEN+ INVESTIGACION HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30987
-#EXTINF:-1 tvg-id="" tvg-name="ES| CAZAVISION HD" tvg-logo="https://lo1.in/sp/CAZAVISION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZAVISION HD
+#EXTINF:-1 tvg-id="" tvg-name="ES| CAZAVISION HD" tvg-logo="https://lo1.in/sp/CAZAVISION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZAVISION HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/3230
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE HD" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE HD
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE HD" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30939
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES| DIVINITY HD" tvg-logo="https://lo1.in/sp/DIVINITY.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DIVINITY HD
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES| DIVINITY HD" tvg-logo="https://lo1.in/sp/DIVINITY.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DIVINITY HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30969
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES| FACTORIA DE FICCION HD" tvg-logo="https://lo1.in/sp/facdf.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| FACTORIA DE FICCION HD
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES| FACTORIA DE FICCION HD" tvg-logo="https://lo1.in/sp/facdf.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| FACTORIA DE FICCION HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30986
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA & PESCA  HD" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA & PESCA  HD
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA & PESCA  HD" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA & PESCA  HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30988
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA HD" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA HD
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA HD" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30989
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA HD" tvg-logo="https://lo1.in/sp/CANAL ODISEA.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA HD
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA HD" tvg-logo="https://lo1.in/sp/CANAL ODISEA.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31199
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES| DKISS HD" tvg-logo="https://lo1.in/sp/DKISS.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DKISS HD
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES| DKISS HD" tvg-logo="https://lo1.in/sp/DKISS.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DKISS HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/98859
-#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ES| ARAGON TV HD" tvg-logo="https://lo1.in/sp/aragon.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| ARAGON TV HD
+#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ES| ARAGON TV HD" tvg-logo="https://lo1.in/sp/aragon.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| ARAGON TV HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134146
-#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| BLAZE HD
+#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| BLAZE HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290029
-#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name="ES| M+ DOCUMENTALES HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| M+ DOCUMENTALES HD
+#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name="ES| M+ DOCUMENTALES HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| M+ DOCUMENTALES HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290030
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA FHD✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦CULTURA FHD✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA FHD✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦CULTURA FHD✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31349
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC FHD" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC FHD" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30916
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES| NAT GEO WILD FHD" tvg-logo="https://lo1.in/fr/Nat geo wild HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEO WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES| NAT GEO WILD FHD" tvg-logo="https://lo1.in/fr/Nat geo wild HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEO WILD FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30915
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES| DISCOVERY CHANNEL FHD" tvg-logo="https://lo1.in/us/dcC.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DISCOVERY CHANNEL FHD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES| DISCOVERY CHANNEL FHD" tvg-logo="https://lo1.in/us/dcC.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DISCOVERY CHANNEL FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30917
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX FHD" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX FHD
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX FHD" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1074
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA FHD" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA FHD
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA FHD" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30922
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES| CRIMEN INVESTIGACION FHD" tvg-logo="https://lo1.in/sp/CRIMEN INVESTIGACION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CRIMEN INVESTIGACION FHD
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES| CRIMEN INVESTIGACION FHD" tvg-logo="https://lo1.in/sp/CRIMEN INVESTIGACION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CRIMEN INVESTIGACION FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30919
-#EXTINF:-1 tvg-id="" tvg-name="ES| CAZAVISION FHD" tvg-logo="https://lo1.in/sp/CAZAVISION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZAVISION FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES| CAZAVISION FHD" tvg-logo="https://lo1.in/sp/CAZAVISION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZAVISION FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/3229
-#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES| ARAGON TV FHD" tvg-logo="https://lo1.in/sp/aragon.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| ARAGON TV FHD
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES| ARAGON TV FHD" tvg-logo="https://lo1.in/sp/aragon.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| ARAGON TV FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30873
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE FHD" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE FHD
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE FHD" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30874
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES| DIVINITY FHD" tvg-logo="https://lo1.in/sp/DIVINITY.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DIVINITY FHD
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES| DIVINITY FHD" tvg-logo="https://lo1.in/sp/DIVINITY.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DIVINITY FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30901
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA FHD" tvg-logo="https://lo1.in/sp/CANAL ODISEA.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA FHD
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA FHD" tvg-logo="https://lo1.in/sp/CANAL ODISEA.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30914
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES| FACTORIA DE FICCION FHD" tvg-logo="https://lo1.in/sp/facdf.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| FACTORIA DE FICCION FHD
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES| FACTORIA DE FICCION FHD" tvg-logo="https://lo1.in/sp/facdf.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| FACTORIA DE FICCION FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30918
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA & PESCA FHD" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA & PESCA FHD
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA & PESCA FHD" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA & PESCA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30920
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA FHD" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA FHD
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA FHD" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30921
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES| DKISS FHD" tvg-logo="https://lo1.in/sp/DKISS.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DKISS FHD
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES| DKISS FHD" tvg-logo="https://lo1.in/sp/DKISS.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DKISS FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/98858
-#EXTINF:-1 tvg-id="" tvg-name="ES| DW EN ESPAÑOL FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DW EN ESPAÑOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES| DW EN ESPAÑOL FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DW EN ESPAÑOL FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290027
-#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| BLAZE FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES| BLAZE FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| BLAZE FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290028
-#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name="ES| M+ DOCUMENTALES FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| M+ DOCUMENTALES FHD
+#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name="ES| M+ DOCUMENTALES FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| M+ DOCUMENTALES FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290031
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CULTURA HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦ CULTURA HEVC ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ CULTURA HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦ CULTURA HEVC ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31324
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC HEVC" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC HEVC
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC HEVC" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33742
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA HEVC" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA HEVC
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA HEVC" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33744
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX HEVC" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX HEVC
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX HEVC" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1073
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE HEVC" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE HEVC
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE HEVC" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33718
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA 4K" tvg-logo="https://lo1.in/sp/CANAL ODISEA.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA 4K
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA 4K" tvg-logo="https://lo1.in/sp/CANAL ODISEA.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA 4K
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/167197
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA & PESCA HEVC" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA & PESCA HEVC
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA & PESCA HEVC" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA & PESCA HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33743
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA 4K" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA 4K
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA 4K" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA 4K
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1243
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA SD✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦CULTURA SD✦●✦
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦CULTURA SD✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",✦●✦CULTURA SD✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/193891
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC SD" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC SD
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES| NAT GEOGRAPHIC SD" tvg-logo="https://lo1.in/fr/Nat geo HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEOGRAPHIC SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/155024
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES| NAT GEO WILD SD" tvg-logo="https://lo1.in/fr/Nat geo wild HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEO WILD SD
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES| NAT GEO WILD SD" tvg-logo="https://lo1.in/fr/Nat geo wild HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| NAT GEO WILD SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/155023
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES| DISCOVERY CHANNEL SD" tvg-logo="https://lo1.in/us/dcC.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES| DISCOVERY CHANNEL SD" tvg-logo="https://lo1.in/us/dcC.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DISCOVERY CHANNEL SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/621
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX SD" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX SD
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES| DMAX SD" tvg-logo="https://lo1.in/sp/dmaxx.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DMAX SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/12652
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA SD" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA SD
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES| HISTORIA SD" tvg-logo="https://lo1.in/sp/Histoire HD.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| HISTORIA SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/618
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA SD" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA SD
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES| CANAL COCINA SD" tvg-logo="https://lo1.in/sp/cacocina.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL COCINA SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/617
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA SD" tvg-logo="https://lo1.in/sp/odisea0.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA SD
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES| CANAL ODISEA SD" tvg-logo="https://lo1.in/sp/odisea0.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CANAL ODISEA SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/619
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES| CRIMEN+ INVESTIGACIÓN SD" tvg-logo="https://lo1.in/sp/CRIMEN INVESTIGACION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CRIMEN+ INVESTIGACIÓN SD
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES| CRIMEN+ INVESTIGACIÓN SD" tvg-logo="https://lo1.in/sp/CRIMEN INVESTIGACION.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CRIMEN+ INVESTIGACIÓN SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/622
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES| DIVINITY SD" tvg-logo="https://lo1.in/sp/DIVINITY.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DIVINITY SD
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES| DIVINITY SD" tvg-logo="https://lo1.in/sp/DIVINITY.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DIVINITY SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/628
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE SD" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE SD
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES| CLAN TVE SD" tvg-logo="https://lo1.in/sp/clantv.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CLAN TVE SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/633
-#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ES| ARAGON TV SD" tvg-logo="https://lo1.in/sp/aragonint.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| ARAGON TV SD
+#EXTINF:-1 tvg-id="aragontvint.es" tvg-name="ES| ARAGON TV SD" tvg-logo="https://lo1.in/sp/aragonint.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| ARAGON TV SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/636
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES| FACTORIA DE FICCION SD" tvg-logo="https://lo1.in/sp/facdf.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| FACTORIA DE FICCION SD
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES| FACTORIA DE FICCION SD" tvg-logo="https://lo1.in/sp/facdf.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| FACTORIA DE FICCION SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/647
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES| DKISS SD" tvg-logo="https://lo1.in/sp/DKISS.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DKISS SD
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES| DKISS SD" tvg-logo="https://lo1.in/sp/DKISS.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| DKISS SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/5744
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA Y PESCA SD" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA Y PESCA SD
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES| CAZA Y PESCA SD" tvg-logo="https://lo1.in/sp/cazaype.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| CAZA Y PESCA SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/155025
-#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name="ES| M+ DOCUMENTALES SD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| M+ DOCUMENTALES SD
+#EXTINF:-1 tvg-id="mplusdocumentales.es" tvg-name="ES| M+ DOCUMENTALES SD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN DOCUMENTARY" ext-x-type="live" tvg-type="live",ES| M+ DOCUMENTALES SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/948410
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦  MOVIESTAR HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",✦●✦  MOVIESTAR HD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦  MOVIESTAR HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",✦●✦  MOVIESTAR HD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31310
 #EXTINF:-1 tvg-id="" tvg-name="ES| BUEN VIAJE HD" tvg-logo="https://lo1.in/sp/BUEN VIAJE.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",ES| BUEN VIAJE HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2405
@@ -1195,7 +1195,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30994
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1177152
 #EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES| M+ ESTRENOS HD" tvg-logo="https://lo1.in/sp/mestr.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",ES| M+ ESTRENOS HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290042
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR FHD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",✦●✦ MOVIESTAR FHD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR FHD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",✦●✦ MOVIESTAR FHD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31317
 #EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES| M+ CINE FHD" tvg-logo="https://lo1.in/sp/mestr.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",ES| M+ CINE FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30878
@@ -1249,7 +1249,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290034
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290033
 #EXTINF:-1 tvg-id="" tvg-name="ES| RUNTIME THRILLER + TERROR" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",ES| RUNTIME THRILLER + TERROR
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290032
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",✦●✦ MOVIESTAR HEVC ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MOVIESTAR HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",✦●✦ MOVIESTAR HEVC ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31321
 #EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES| M+ SERIES HEVC" tvg-logo="https://lo1.in/sp/mserhd.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",ES| M+ SERIES HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33722
@@ -1287,7 +1287,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/948412
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/948408
 #EXTINF:-1 tvg-id="" tvg-name="ES| VEO7 SD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN CINEMA" ext-x-type="movies" tvg-type="movies",ES| VEO7 SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1177153
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",✦●✦ KIDS HD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",✦●✦ KIDS HD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31309
 #EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES| NICKELODEON HD" tvg-logo="https://lo1.in/sp/nicko.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",ES| NICKELODEON HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30998
@@ -1303,7 +1303,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30995
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30993
 #EXTINF:-1 tvg-id="" tvg-name="ES| PEQUERADIO TV HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",ES| PEQUERADIO TV HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1290056
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS FHD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",✦●✦ KIDS FHD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS FHD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",✦●✦ KIDS FHD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31316
 #EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES| NICKELODEON FHD" tvg-logo="https://lo1.in/sp/nicko.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",ES| NICKELODEON FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30928
@@ -1315,7 +1315,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30925
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30926
 #EXTINF:-1 tvg-id="boing.es" tvg-name="ES| BOING FHD" tvg-logo="https://lo1.in/sp/boing.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",ES| BOING FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/30923
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",✦●✦ KIDS HEVC ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ KIDS HEVC ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",✦●✦ KIDS HEVC ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31319
 #EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES| NICKELODEON HEVC" tvg-logo="https://lo1.in/sp/nicko.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",ES| NICKELODEON HEVC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/33746
@@ -1335,7 +1335,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/614
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/611
 #EXTINF:-1 tvg-id="babytv.es" tvg-name="ES| BABY TV SD" tvg-logo="https://lo1.in/fr/BABY TV HEVC.png" group-title="EU | SPAIN KIDS" ext-x-type="live" tvg-type="live",ES| BABY TV SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/612
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MUSIC HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN MUSIC" ext-x-type="live" tvg-type="live",✦●✦ MUSIC HD ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ MUSIC HD ✦●✦ " tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN MUSIC" ext-x-type="live" tvg-type="live",✦●✦ MUSIC HD ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/31311
 #EXTINF:-1 tvg-id="solmusica.es" tvg-name="ES| SOL MUSICA HD" tvg-logo="https://lo1.in/sp/Sol Musica.png" group-title="EU | SPAIN MUSIC" ext-x-type="live" tvg-type="live",ES| SOL MUSICA HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/156417
@@ -1367,7 +1367,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2091
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/610
 #EXTINF:-1 tvg-id="" tvg-name="ES| HIT TV SD" tvg-logo="https://lo1.in/sp/HIT TV.png" group-title="EU | SPAIN MUSIC" ext-x-type="live" tvg-type="live",ES| HIT TV SD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/12756
-#EXTINF:-1 tvg-id="" tvg-name="24/7-ES| Maggie " tvg-logo="https://lo1.in/uk/247.png" group-title="EU | 24/7 SPAIN" ext-x-type="live" tvg-type="live",24/7-ES| Maggie 
+#EXTINF:-1 tvg-id="" tvg-name="24/7-ES| Maggie " tvg-logo="https://lo1.in/uk/247.png" group-title="EU | 24/7 SPAIN" ext-x-type="live" tvg-type="live",24/7-ES| Maggie
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/249358
 #EXTINF:-1 tvg-id="" tvg-name="24/7-ES| La Reina del Sur" tvg-logo="https://lo1.in/uk/247.png" group-title="EU | 24/7 SPAIN" ext-x-type="live" tvg-type="live",24/7-ES| La Reina del Sur
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/249307
@@ -1395,7 +1395,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/248728
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/248727
 #EXTINF:-1 tvg-id="" tvg-name="24/7-ES| Peaky Blinders" tvg-logo="https://lo1.in/uk/247.png" group-title="EU | 24/7 SPAIN" ext-x-type="live" tvg-type="live",24/7-ES| Peaky Blinders
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/248725
-#EXTINF:-1 tvg-id="" tvg-name="✦●✦  ADULT +18  ✦●✦ " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",✦●✦  ADULT +18  ✦●✦ 
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦  ADULT +18  ✦●✦ " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",✦●✦  ADULT +18  ✦●✦
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/2225
 #EXTINF:-1 tvg-id="" tvg-name="XXX| BOX OF PORN FHD" tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| BOX OF PORN FHD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1225
@@ -1425,7 +1425,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/96882
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/96883
 #EXTINF:-1 tvg-id="" tvg-name="XXX| REDTRAFFIC 6" tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| REDTRAFFIC 6
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/96884
-#EXTINF:-1 tvg-id="" tvg-name="XXX| REDTRAFFIC Fetish " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| REDTRAFFIC Fetish 
+#EXTINF:-1 tvg-id="" tvg-name="XXX| REDTRAFFIC Fetish " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| REDTRAFFIC Fetish
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/96886
 #EXTINF:-1 tvg-id="" tvg-name="XXX| LATINA" tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| LATINA
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/96887
@@ -1453,11 +1453,11 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134505
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134507
 #EXTINF:-1 tvg-id="" tvg-name="XXX| PRIVATE_LA4 HD" tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| PRIVATE_LA4 HD
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134509
-#EXTINF:-1 tvg-id="" tvg-name="XXX| BIG ASS REDTRAFFIC " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| BIG ASS REDTRAFFIC 
+#EXTINF:-1 tvg-id="" tvg-name="XXX| BIG ASS REDTRAFFIC " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| BIG ASS REDTRAFFIC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134510
 #EXTINF:-1 tvg-id="" tvg-name="XXX| PORNSTAR" tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| PORNSTAR
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134511
-#EXTINF:-1 tvg-id="" tvg-name="XXX| BIG DICK REDTRAFFIC " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| BIG DICK REDTRAFFIC 
+#EXTINF:-1 tvg-id="" tvg-name="XXX| BIG DICK REDTRAFFIC " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| BIG DICK REDTRAFFIC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134514
 #EXTINF:-1 tvg-id="" tvg-name="XXX|THREESOME" tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX|THREESOME
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/134518
@@ -1761,7 +1761,7 @@ http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1354954
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1354958
 #EXTINF:-1 tvg-id="" tvg-name="XXX| Czech street." tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| Czech street.
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1354964
-#EXTINF:-1 tvg-id="" tvg-name="XXX| RUSSIAN REDTRAFFIC " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| RUSSIAN REDTRAFFIC 
+#EXTINF:-1 tvg-id="" tvg-name="XXX| RUSSIAN REDTRAFFIC " tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| RUSSIAN REDTRAFFIC
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1354967
 #EXTINF:-1 tvg-id="" tvg-name="XXX| ROUGH" tvg-logo="https://lo1.in/xx/p18.png" group-title="XX | FOR ADULT" ext-x-type="live" tvg-type="live",XXX| ROUGH
 http://hvzpkwuw.chinshon.com:80/1S9NCCMW/PQPBYEKH/1354968
@@ -1819,7 +1819,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245148.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245149.mp4
 #EXTINF:-1 tvg-id="" tvg-name="21Naturals.TinaKay.AnalWishes" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",21Naturals.TinaKay.AnalWishes
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="21Naturals.TinaKay.GloomyMorning ext-x-type="movies" tvg-type="movies",WarmHugs" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",21Naturals.TinaKay.GloomyMorning,WarmHugs
+#EXTINF:-1 tvg-id="" tvg-name="21Naturals.TinaKay.GloomyMorning group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",WarmHugs
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245151.mp4
 #EXTINF:-1 tvg-id="" tvg-name="21Naturals.VannaBardot.CasualInLove" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",21Naturals.VannaBardot.CasualInLove
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245152.mp4
@@ -1845,7 +1845,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245161.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245162.mp4
 #EXTINF:-1 tvg-id="" tvg-name="21Sextury.AlexisCrystal.AfterWorkStressRelief" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",21Sextury.AlexisCrystal.AfterWorkStressRelief
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="21Sextury.AlexisCrystal.TakeMyAss ext-x-type="movies" tvg-type="movies",ItIsYours" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",21Sextury.AlexisCrystal.TakeMyAss,ItIsYours
+#EXTINF:-1 tvg-id="" tvg-name="21Sextury.AlexisCrystal.TakeMyAss group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",ItIsYours
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="21Sextury.AlexisCrystal.ThreesomeModeling" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",21Sextury.AlexisCrystal.ThreesomeModeling
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245165.mp4
@@ -1987,7 +1987,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245232.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245233.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BangBros.AdrianaMaya.AdrianasAnalSurprise" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",BangBros.AdrianaMaya.AdrianasAnalSurprise
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BangBros.CaliCarter&KarmaRx.IfYouGrowIt ext-x-type="movies" tvg-type="movies",TheyWillCum" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",BangBros.CaliCarter&KarmaRx.IfYouGrowIt,TheyWillCum
+#EXTINF:-1 tvg-id="" tvg-name="BangBros.CaliCarter&KarmaRx.IfYouGrowIt group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",TheyWillCum
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245235.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BangBros.CallieCalypso.StretchingOutCalliesSweetAsshole" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",BangBros.CallieCalypso.StretchingOutCalliesSweetAsshole
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245236.mp4
@@ -2279,57 +2279,57 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245378.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245379.mp4
 #EXTINF:-1 tvg-id="" tvg-name="MeganRain" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",MeganRain
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.AbellaDanger.MyRoommatesBigDick.December22 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.AbellaDanger.MyRoommatesBigDick.December22,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.AbellaDanger.MyRoommatesBigDick.December22 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.AlexBlake.HotYoga.June23 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.AlexBlake.HotYoga.June23,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.AlexBlake.HotYoga.June23 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.AlexisAdams.ShowerCreeping.March24 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.AlexisAdams.ShowerCreeping.March24,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.AlexisAdams.ShowerCreeping.March24 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.AmiaMiley.NaughtyNannyCreampie.October6 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.AmiaMiley.NaughtyNannyCreampie.October6,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.AmiaMiley.NaughtyNannyCreampie.October6 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.ArielleFaye.RoadsideAssistance.September1 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.ArielleFaye.RoadsideAssistance.September1,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.ArielleFaye.RoadsideAssistance.September1 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.AugustAmes.BubbleBathBabe.January13 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.AugustAmes.BubbleBathBabe.January13,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.AugustAmes.BubbleBathBabe.January13 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.BunnieHughes.JacuzziJizzing.February17 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.BunnieHughes.JacuzziJizzing.February17,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.BunnieHughes.JacuzziJizzing.February17 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.CharityCrawford.CumInThePool.November24 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.CharityCrawford.CumInThePool.November24,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.CharityCrawford.CumInThePool.November24 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.ChloeScott.OrgasmicSquirtInstruction.May5 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.ChloeScott.OrgasmicSquirtInstruction.May5,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.ChloeScott.OrgasmicSquirtInstruction.May5 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.EdenSin.AnalDaywithEden.March31 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.EdenSin.AnalDaywithEden.March31,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.EdenSin.AnalDaywithEden.March31 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.JadeAmber.JadesNaughtyNeighbor.May12 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.JadeAmber.JadesNaughtyNeighbor.May12,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.JadeAmber.JadesNaughtyNeighbor.May12 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.JaniceGriffith.OilMeUp.January20 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.JaniceGriffith.OilMeUp.January20,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.JaniceGriffith.OilMeUp.January20 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.KaraFaux.SpaSexTreatment.January27 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.KaraFaux.SpaSexTreatment.January27,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.KaraFaux.SpaSexTreatment.January27 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.KeishaGrey.BubbleButt.August4 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.KeishaGrey.BubbleButt.August4,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.KeishaGrey.BubbleButt.August4 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.KenzieReeves.PussyDessert.August25 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.KenzieReeves.PussyDessert.August25,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.KenzieReeves.PussyDessert.August25 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.KristenScott.CarHead.June9 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.KristenScott.CarHead.June9,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.KristenScott.CarHead.June9 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.LannaCarter.MorningWorkout.September15 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.LannaCarter.MorningWorkout.September15,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.LannaCarter.MorningWorkout.September15 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.LenaPaul.EasterBunnyHunny.April14 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.LenaPaul.EasterBunnyHunny.April14,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.LenaPaul.EasterBunnyHunny.April14 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.LilyRader.InTheCityWithLily.August11 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.LilyRader.InTheCityWithLily.August11,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.LilyRader.InTheCityWithLily.August11 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245399.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.MeganRain.BeachBabeMegan.June30 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.MeganRain.BeachBabeMegan.June30,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.MeganRain.BeachBabeMegan.June30 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.MokaMora.OfficeSlut.February3 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.MokaMora.OfficeSlut.February3,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.MokaMora.OfficeSlut.February3 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.NinaSkye.SurpriseDelivery.July7 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.NinaSkye.SurpriseDelivery.July7,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.NinaSkye.SurpriseDelivery.July7 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.RebelLynn(ContractStar).OralSpaDay.November3 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.RebelLynn(ContractStar).OralSpaDay.November3,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.RebelLynn(ContractStar).OralSpaDay.November3 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.RinaEllis.StrokingHisCueStick.September29 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.RinaEllis.StrokingHisCueStick.September29,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.RinaEllis.StrokingHisCueStick.September29 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.TaylorSands.BusinessThenPleasure.April7 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.TaylorSands.BusinessThenPleasure.April7,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.TaylorSands.BusinessThenPleasure.April7 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="POVD.ViennaBlack.ExhaustedBabysitter.November10 ext-x-type="movies" tvg-type="movies",2017.720p" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN",POVD.ViennaBlack.ExhaustedBabysitter.November10,2017.720p
+#EXTINF:-1 tvg-id="" tvg-name="POVD.ViennaBlack.ExhaustedBabysitter.November10 group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",2017.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245406.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RedheadslutVioletMonroetakesroughanalfucking&ballsdeepDPSZ1405(1080)" tvg-logo="https://image.tmdb.org/t/p/w500/leugZfd8zr2HUmcjSWo1GYn4r6S.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",RedheadslutVioletMonroetakesroughanalfucking&ballsdeepDPSZ1405(1080)
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245407.mp4
@@ -2359,7 +2359,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245418.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245419.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SonyaDurganova-swingsexwithdirtybitchIV125(1080)" tvg-logo="https://image.tmdb.org/t/p/w500/iOIsA73jULY4Y7HmQYRkAZSrhe5.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",SonyaDurganova-swingsexwithdirtybitchIV125(1080)
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SyrenDeMer&FrancysBelle-fistingcartel ext-x-type="movies" tvg-type="movies",twohighlevelbitchesloveanalsexPart-1IV131(1080)" tvg-logo="https://image.tmdb.org/t/p/w500/iOIsA73jULY4Y7HmQYRkAZSrhe5.jpg" group-title="XX ADULT +18 PORN",SyrenDeMer&FrancysBelle-fistingcartel,twohighlevelbitchesloveanalsexPart-1IV131(1080)
+#EXTINF:-1 tvg-id="" tvg-name="SyrenDeMer&FrancysBelle-fistingcartel group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",twohighlevelbitchesloveanalsexPart-1IV131(1080)
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245421.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TimeaBella&ShrimaMalatiinterracialfucksessionwithdoublepenetrationSZ1009" tvg-logo="https://image.tmdb.org/t/p/w500/iOIsA73jULY4Y7HmQYRkAZSrhe5.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",TimeaBella&ShrimaMalatiinterracialfucksessionwithdoublepenetrationSZ1009
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/245422.mp4
@@ -2513,7 +2513,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246028.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246029.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Anal.Friends4 Blanche Bradburry" tvg-logo="https://image.tmdb.org/t/p/w500/pFjZGfHmSS60auUhTUttAuvEz7.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Anal.Friends4 Blanche Bradburry
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apolonia.Lapiedra ext-x-type="movies" tvg-type="movies",Cherry,Kiss  Lilu Moon" tvg-logo="https://image.tmdb.org/t/p/w500/pFjZGfHmSS60auUhTUttAuvEz7.jpg" group-title="XX ADULT +18 PORN",Apolonia.Lapiedra,Cherry,Kiss  Lilu Moon
+#EXTINF:-1 tvg-id="" tvg-name="Apolonia.Lapiedra group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Kiss  Lilu Moon
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246031.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Candy.Love" tvg-logo="https://image.tmdb.org/t/p/w500/w3FmAoejuRX90RL0N1lfJPTdms6.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Candy.Love
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246032.mp4
@@ -2525,13 +2525,13 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246034.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="FA20" tvg-logo="https://image.tmdb.org/t/p/w500/w3FmAoejuRX90RL0N1lfJPTdms6.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",FA20
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246036.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Katrin.Tequila ext-x-type="movies" tvg-type="movies",Kerry Cherry,Shelley Bliss" tvg-logo="https://image.tmdb.org/t/p/w500/w3FmAoejuRX90RL0N1lfJPTdms6.jpg" group-title="XX ADULT +18 PORN",Katrin.Tequila,Kerry Cherry,Shelley Bliss
+#EXTINF:-1 tvg-id="" tvg-name="Katrin.Tequila group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Shelley Bliss
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246037.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lana.S" tvg-logo="https://image.tmdb.org/t/p/w500/wNiWNkrIeHSIqbuMfn9EIghMf58.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Lana.S
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246038.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lulu.Love" tvg-logo="https://image.tmdb.org/t/p/w500/uala418ALhYQJO5nfW20WoDDaCC.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Lulu.Love
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Luna.Corazon ext-x-type="movies" tvg-type="movies",Zazie Skymm,Tiffany Tatum" tvg-logo="https://image.tmdb.org/t/p/w500/uala418ALhYQJO5nfW20WoDDaCC.jpg" group-title="XX ADULT +18 PORN",Luna.Corazon,Zazie Skymm,Tiffany Tatum
+#EXTINF:-1 tvg-id="" tvg-name="Luna.Corazon group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Tiffany Tatum
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246040.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nataly.Von" tvg-logo="https://image.tmdb.org/t/p/w500/uala418ALhYQJO5nfW20WoDDaCC.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Nataly.Von
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246041.mp4
@@ -2541,7 +2541,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246042.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246043.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tina.Blade" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Tina.Blade
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246044.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tina.Kay ext-x-type="movies" tvg-type="movies",Lilu Moon" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN",Tina.Kay,Lilu Moon
+#EXTINF:-1 tvg-id="" tvg-name="Tina.Kay group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Lilu Moon
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246045.mp4
 #EXTINF:-1 tvg-id="" tvg-name="21.Naturals.Alecia Fox - Classic Romance_1080p" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",21.Naturals.Alecia Fox - Classic Romance_1080p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246046.mp4
@@ -2551,7 +2551,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246047.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246048.mp4
 #EXTINF:-1 tvg-id="" tvg-name="21.Sextury.Kattie Gold - Flaming Red_1080p" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",21.Sextury.Kattie Gold - Flaming Red_1080p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246049.mp4
-#EXTINF:-1 tvg-id="" tvg-name="21Naturals-Sextury]Danielle.Soul ext-x-type="movies" tvg-type="movies", Renato.My Body Needs Anal.1280x" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN",21Naturals-Sextury]Danielle.Soul, Renato.My Body Needs Anal.1280x
+#EXTINF:-1 tvg-id="" tvg-name="21Naturals-Sextury]Danielle.Soul group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Renato.My Body Needs Anal.1280x
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246050.mp4
 #EXTINF:-1 tvg-id="" tvg-name="21Naturals.com-21Sextury.com]Luna.Corazon (Silky Sex Massage)" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",21Naturals.com-21Sextury.com]Luna.Corazon (Silky Sex Massage)
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246051.mp4
@@ -2621,7 +2621,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246084.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246085.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jada.Doll" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Jada.Doll
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246086.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jezabel.Vessir ext-x-type="movies" tvg-type="movies",.Gia.Vendetti" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN",Jezabel.Vessir,.Gia.Vendetti
+#EXTINF:-1 tvg-id="" tvg-name="Jezabel.Vessir group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",.Gia.Vendetti
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246087.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nicole.Kitt" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Nicole.Kitt
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246088.mp4
@@ -2629,7 +2629,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246088.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246089.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sizi.Sev" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Sizi.Sev
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246090.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zaawaadi ext-x-type="movies" tvg-type="movies",.Asia.Rae" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN",Zaawaadi,.Asia.Rae
+#EXTINF:-1 tvg-id="" tvg-name="Zaawaadi group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",.Asia.Rae
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246091.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[AllBlackX].Alexis.Tae.All.Anal.(09.02.2020) rq" tvg-logo="https://image.tmdb.org/t/p/w500/rCO7uL61kh71kniTlcaTADLhFSm.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",[AllBlackX].Alexis.Tae.All.Anal.(09.02.2020) rq
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/246092.mp4
@@ -2791,9 +2791,9 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/252161.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/252162.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AllAnal.20.01.19.Chloe.Amour.And.Jade.Reign.XXX.720p.HEVC.x265.PRT" tvg-logo="https://image.tmdb.org/t/p/w500/nPcGoirzTBtkodeZSyjJ51mBrUh.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",AllAnal.20.01.19.Chloe.Amour.And.Jade.Reign.XXX.720p.HEVC.x265.PRT
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/252165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AllAnal.April Olsen ext-x-type="movies" tvg-type="movies", Maddy May - Double Trouble with April and Maddy" tvg-logo="https://image.tmdb.org/t/p/w500/nPcGoirzTBtkodeZSyjJ51mBrUh.jpg" group-title="XX ADULT +18 PORN",AllAnal.April Olsen, Maddy May - Double Trouble with April and Maddy
+#EXTINF:-1 tvg-id="" tvg-name="AllAnal.April Olsen group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Maddy May - Double Trouble with April and Maddy
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/252166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="AllAnal.Maddy May ext-x-type="movies" tvg-type="movies", Jamie Jett - Backdoor and ATM action with Maddy and Jamie" tvg-logo="https://image.tmdb.org/t/p/w500/nPcGoirzTBtkodeZSyjJ51mBrUh.jpg" group-title="XX ADULT +18 PORN",AllAnal.Maddy May, Jamie Jett - Backdoor and ATM action with Maddy and Jamie
+#EXTINF:-1 tvg-id="" tvg-name="AllAnal.Maddy May group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Jamie Jett - Backdoor and ATM action with Maddy and Jamie
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/252167.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[AnalOnly].April Olsen . Anal Appointment (15.01.2021) 720p rq" tvg-logo="https://image.tmdb.org/t/p/w500/nPcGoirzTBtkodeZSyjJ51mBrUh.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",[AnalOnly].April Olsen . Anal Appointment (15.01.2021) 720p rq
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/252168.mp4
@@ -4481,7 +4481,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263015.mp4
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263016.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kunyaza" tvg-logo="https://image.tmdb.org/t/p/w500/2o4NEwrBGobZjKXcVcMd45d1Emg.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Kunyaza
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lauren.Foxxx ext-x-type="movies" tvg-type="movies",.Kirra.Lynne.Phatty.Girls.9" tvg-logo="https://image.tmdb.org/t/p/w500/2o4NEwrBGobZjKXcVcMd45d1Emg.jpg" group-title="XX ADULT +18 PORN",Lauren.Foxxx,.Kirra.Lynne.Phatty.Girls.9
+#EXTINF:-1 tvg-id="" tvg-name="Lauren.Foxxx group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",.Kirra.Lynne.Phatty.Girls.9
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263018.avi
 #EXTINF:-1 tvg-id="" tvg-name="Lauren.Foxxx.All.Dat.Azz.39.Scene.2" tvg-logo="https://image.tmdb.org/t/p/w500/2o4NEwrBGobZjKXcVcMd45d1Emg.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Lauren.Foxxx.All.Dat.Azz.39.Scene.2
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263019.avi
@@ -4495,7 +4495,7 @@ http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263022.avi
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263023.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mz.Dani.Emcee.takes.it.from.Don.Prince.Thick.ASF.Dec.2019" tvg-logo="https://image.tmdb.org/t/p/w500/2o4NEwrBGobZjKXcVcMd45d1Emg.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",Mz.Dani.Emcee.takes.it.from.Don.Prince.Thick.ASF.Dec.2019
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mz.Dani.MC ext-x-type="movies" tvg-type="movies",.Celebrity.Cumms.Majiik.Montana.ThickASF.Jan.2020" tvg-logo="https://image.tmdb.org/t/p/w500/2o4NEwrBGobZjKXcVcMd45d1Emg.jpg" group-title="XX ADULT +18 PORN",Mz.Dani.MC,.Celebrity.Cumms.Majiik.Montana.ThickASF.Jan.2020
+#EXTINF:-1 tvg-id="" tvg-name="Mz.Dani.MC group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",.Celebrity.Cumms.Majiik.Montana.ThickASF.Jan.2020
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263025.mp4
 #EXTINF:-1 tvg-id="" tvg-name="New.Cummer.Carmel.Squirtz.720p" tvg-logo="https://image.tmdb.org/t/p/w500/2o4NEwrBGobZjKXcVcMd45d1Emg.jpg" group-title="XX ADULT +18 PORN" ext-x-type="movies" tvg-type="movies",New.Cummer.Carmel.Squirtz.720p
 http://hvzpkwuw.chinshon.com:80/movie/1S9NCCMW/PQPBYEKH/263026.mp4
